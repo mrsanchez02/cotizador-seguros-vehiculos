@@ -141,7 +141,7 @@ const Formulario = ({setResumen,setLoading}) => {
                     <option value="">-- Seleccione --</option>
                     <option value="americano">Americano</option>
                     <option value="europeo">Europeo</option>
-                    <option value="asiatiaco">Asiatico</option>
+                    <option value="asiatico">Asiatico</option>
                 </Select>
             </Campo>
             <Campo>
